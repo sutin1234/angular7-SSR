@@ -6,6 +6,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 git clone https://github.com/sutin1234/angular7-SSR.git
 
+## Install Dependencies
+
+npm install
+
 ## Build client production
 
 npm run build:prod
