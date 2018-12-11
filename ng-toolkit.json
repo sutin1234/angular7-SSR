@@ -1,0 +1,17 @@
+{
+  "universal": {
+    "project": "angular7-SSR",
+    "skipInstall": false,
+    "directory": "."
+  },
+  "serverless": {
+    "project": "angular7-SSR",
+    "provider": "aws",
+    "skipInstall": false,
+    "directory": ".",
+    "serverless": {
+      "aws": {},
+      "gcloud": {}
+    }
+  }
+}
